@@ -1,0 +1,69 @@
+{
+  "source": "Google Drive connector",
+  "root": {
+    "title": "00-custom",
+    "id": "1Yvi9zvdut7oODAjk-QGinyIEXukU3Xp6",
+    "url": "https://drive.google.com/drive/folders/1Yvi9zvdut7oODAjk-QGinyIEXukU3Xp6"
+  },
+  "sample_folder": {
+    "title": "20230825 林嘉萱",
+    "id": "1QryRRmdSLGOrGjqmenS_zBd7kGji2H28",
+    "url": "https://drive.google.com/drive/folders/1QryRRmdSLGOrGjqmenS_zBd7kGji2H28"
+  },
+  "files": [
+    {
+      "title": "ColorGeek_Display #1 2023-08-25 17-23 0.3124x 0.3321y 2.2 F-S 1xCurve+MTX.zip",
+      "id": "1zvPZl_UWheCaS6OH5qT3HXrEuYMjq5WW",
+      "mime_type": "application/zip",
+      "modified_time": "2023-08-25T09:42:13.000Z"
+    },
+    {
+      "title": "ColorGeek_UNCAL Built-in Retina Display @ 0, 0, 1280x800 — 2023-08-25 16-55.html",
+      "id": "12HsIKgE9zNFjhEkipuPvPXyidFs9WRgR",
+      "mime_type": "text/html",
+      "modified_time": "2023-08-25T09:01:17.000Z"
+    },
+    {
+      "title": "ColorGeek_CAL Built-in Retina Display @ 0, 0, 1280x800 — 2023-08-25 16-55.html",
+      "id": "17JLob67VPqGB7K0us_MrPo-X0ubuxJ8J",
+      "mime_type": "text/html",
+      "modified_time": "2023-08-25T08:58:10.000Z"
+    },
+    {
+      "title": "ColorGeek_ACER SA241Y H 2023-08-25 16-10 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.zip",
+      "id": "1tVmmLyI16UFeiMOA06jUCD-v-v-2cW1q",
+      "mime_type": "application/x-zip-compressed",
+      "modified_time": "2023-08-25T08:54:47.000Z"
+    },
+    {
+      "title": "ColorGeek_ASUS VZ249HEG1R 2023-08-25 16-32 0.3132x 0.3326y 2.2 F-S XYZLUT+MTX.7z",
+      "id": "14zA9pQxdyWGyv6qJkMirS1stl_03OMyG",
+      "mime_type": "application/x-7z-compressed",
+      "modified_time": "2023-08-25T08:53:20.000Z"
+    },
+    {
+      "title": "ColorGeek_CAL_SA241Y H @ 0, 0, 1920x1080 — 2023-08-25 15-59.html",
+      "id": "1-nefF4oKPdkdSJ4FouMd28ZO-N8Zi7JS",
+      "mime_type": "text/html",
+      "modified_time": "2023-08-25T08:25:34.000Z"
+    },
+    {
+      "title": "ColorGeek_UNCAL_SA241Y H @ 0, 0, 1920x1080 — 2023-08-25 15-59.html",
+      "id": "1KEvkB0IyZwoq4MkgN5vUW1ikGUwjdt4S",
+      "mime_type": "text/html",
+      "modified_time": "2023-08-25T08:01:45.000Z"
+    },
+    {
+      "title": "ColorGeek_CAL_VZ249HEG1R @ 0, 0, 1920x1080 — 2023-08-25 15-33.html",
+      "id": "1HJqSB75rKeGkb0a-1xLiHz8-YDmuHEba",
+      "mime_type": "text/html",
+      "modified_time": "2023-08-25T07:54:56.000Z"
+    },
+    {
+      "title": "ColorGeek_UNCAL_VZ249HEG1R @ 0, 0, 1920x1080 — 2023-08-25 15-33.html",
+      "id": "1gStYjVJrK6wabJSceisVS3GwU2gwRdOP",
+      "mime_type": "text/html",
+      "modified_time": "2023-08-25T07:34:58.000Z"
+    }
+  ]
+}

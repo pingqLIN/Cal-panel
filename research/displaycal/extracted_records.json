@@ -1,0 +1,271 @@
+[
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\0_16.log",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "0_16.log",
+    "extension": ".log",
+    "artifact_role": "displaycal_log",
+    "size_bytes": 3230,
+    "modified_time_epoch": 1779875539.4955459
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\0_16.ti1",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "0_16.ti1",
+    "extension": ".ti1",
+    "artifact_role": "testchart",
+    "size_bytes": 466,
+    "modified_time_epoch": 1779875517.8216963
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\0_16.ti3",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "0_16.ti3",
+    "extension": ".ti3",
+    "artifact_role": "measurements",
+    "size_bytes": 10593,
+    "modified_time_epoch": 1779875539.368756
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\Dell_U2413_25Jul12.ccss",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "Dell_U2413_25Jul12.ccss",
+    "extension": ".ccss",
+    "artifact_role": "spectral_correction",
+    "size_bytes": 16969,
+    "modified_time_epoch": 1779875517.8451512,
+    "correction_fields": {
+      "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\Dell_U2413_25Jul12.ccss",
+      "filename": "Dell_U2413_25Jul12.ccss",
+      "correction_type": "ccss",
+      "originator": "X-Rite",
+      "created": "Wed Jul 25 12:50:01 2012",
+      "display": "Dell U2413",
+      "technology": "LCD GB-R Phosphor IPS",
+      "display_type_refresh": "NO",
+      "ui_selectors": "i",
+      "reference": "CS1000",
+      "oem": "YES",
+      "spectral_bands": "351",
+      "spectral_start_nm": "380.000000",
+      "spectral_end_nm": "730.000000",
+      "spectral_norm": "1.000000",
+      "descriptor": "Not specified",
+      "number_of_fields": "352"
+    }
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX [A] vs sRGB [A].wrz",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX [A] vs sRGB [A].wrz",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX [A] vs sRGB [A].wrz",
+    "artifact_role": "vrml_gamut",
+    "size_bytes": 37513,
+    "modified_time_epoch": 1779877625.8872468
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX [A] vs sRGB [A].x3d.html",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX [A] vs sRGB [A].x3d.html",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX [A] vs sRGB [A].x3d.html",
+    "artifact_role": "report_html",
+    "size_bytes": 167669,
+    "modified_time_epoch": 1779877664.1668696,
+    "report_fields": {
+      "title": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX [A] vs sRGB [A]"
+    }
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX [A].gam.gz",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX [A].gam.gz",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX [A].gam.gz",
+    "artifact_role": "gamut_data",
+    "size_bytes": 8257,
+    "modified_time_epoch": 1779877625.8365133
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX [A].wrz",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX [A].wrz",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX [A].wrz",
+    "artifact_role": "vrml_gamut",
+    "size_bytes": 12237,
+    "modified_time_epoch": 1779877625.8471363
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX vs ClayRGB1998.wrz",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX vs ClayRGB1998.wrz",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX vs ClayRGB1998.wrz",
+    "artifact_role": "vrml_gamut",
+    "size_bytes": 40208,
+    "modified_time_epoch": 1779877575.9621084
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX vs SMPTE431_P3.wrz",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX vs SMPTE431_P3.wrz",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX vs SMPTE431_P3.wrz",
+    "artifact_role": "vrml_gamut",
+    "size_bytes": 40269,
+    "modified_time_epoch": 1779877576.0051
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX vs sRGB.wrz",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX vs sRGB.wrz",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX vs sRGB.wrz",
+    "artifact_role": "vrml_gamut",
+    "size_bytes": 35052,
+    "modified_time_epoch": 1779877575.9092944
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.B2A1.post.CLUT.png",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.B2A1.post.CLUT.png",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX.B2A1.post.CLUT.png",
+    "artifact_role": "plot",
+    "size_bytes": 140024,
+    "modified_time_epoch": 1779877554.6463692
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.B2A1.post.CLUT.smooth.png",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.B2A1.post.CLUT.smooth.png",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX.B2A1.post.CLUT.smooth.png",
+    "artifact_role": "plot",
+    "size_bytes": 152725,
+    "modified_time_epoch": 1779877558.4897015
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.bpc.ti3",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.bpc.ti3",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX.bpc.ti3",
+    "artifact_role": "measurements",
+    "size_bytes": 22753,
+    "modified_time_epoch": 1779876491.8713622
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.cal",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.cal",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX.cal",
+    "artifact_role": "calibration_curves",
+    "size_bytes": 13385,
+    "modified_time_epoch": 1779876259.0808232
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.gam.gz",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.gam.gz",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX.gam.gz",
+    "artifact_role": "gamut_data",
+    "size_bytes": 8463,
+    "modified_time_epoch": 1779877575.8529186
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.icm",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.icm",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX.icm",
+    "artifact_role": "icc_profile",
+    "size_bytes": 966440,
+    "modified_time_epoch": 1779877577.7781081,
+    "profile_fields": {
+      "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.icm",
+      "size_bytes": 966440,
+      "preferred_cmm": "argl",
+      "profile_version_major": 2,
+      "device_class": "mntr",
+      "color_space": "RGB ",
+      "pcs": "XYZ ",
+      "tag_signatures": [
+        "A2B0",
+        "A2B1",
+        "B2A0",
+        "B2A1",
+        "CIED",
+        "DevD",
+        "arts",
+        "bTRC",
+        "bXYZ",
+        "bkpt",
+        "chrm",
+        "cprt",
+        "desc",
+        "dmdd",
+        "gTRC",
+        "gXYZ",
+        "lumi",
+        "meta",
+        "rTRC",
+        "rXYZ",
+        "targ",
+        "vcgt",
+        "wtpt"
+      ],
+      "desc": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+      "dmdd": "Generic PnP Monitor",
+      "cprt": "No copyright. Created with DisplayCAL 3.9.18.dev11 and Argyll CMS 3.5.0"
+    }
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.log",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.log",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX.log",
+    "artifact_role": "displaycal_log",
+    "size_bytes": 71126,
+    "modified_time_epoch": 1779877576.0179718
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.ti1",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.ti1",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX.ti1",
+    "artifact_role": "testchart",
+    "size_bytes": 10153,
+    "modified_time_epoch": 1779876259.1646323
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.ti3",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.ti3",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX.ti3",
+    "artifact_role": "measurements",
+    "size_bytes": 22753,
+    "modified_time_epoch": 1779876491.8201127
+  },
+  {
+    "source_kind": "local",
+    "path": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.wrz",
+    "folder": "C:\\Users\\miles\\AppData\\Roaming\\DisplayCAL\\storage\\PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX",
+    "filename": "PnP #2 2026-05-27 17-51 0.3127x 0.329y 2.2 F-S XYZLUT+MTX.wrz",
+    "extension": ".3127x 0.329y 2.2 F-S XYZLUT+MTX.wrz",
+    "artifact_role": "vrml_gamut",
+    "size_bytes": 12742,
+    "modified_time_epoch": 1779877575.8635445
+  }
+]
